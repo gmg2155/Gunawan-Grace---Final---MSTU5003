@@ -1,0 +1,219 @@
+/*Vocabulary Quiz Pop Up*/
+
+.goodQuiz {
+    color: green;
+}
+
+.badQuiz {
+    color: red;
+}
+
+.okayQuiz {
+    color: yellow;
+}
+
+
+/*Header*/
+.intro {
+    margin-top: 35%;
+}
+
+.container-character {
+    margin-top: 1%;
+}
+
+.navbar {
+    text-align: center;
+    position: relative;
+    margin-top: -20%;
+    margin-right: inherit;
+    ;
+    margin-bottom: auto;
+}
+
+.navbar-btn {
+    text-align: center;
+		/*Image Source: https://www.vecteezy.com/vector-art/95016-old-wood-background*/
+    background-image: url(../images/wood.jpg);
+    border: solid #511d20;
+}
+
+.top-btn {
+    text-align: center;
+    /*https://www.vecteezy.com/vector-art/119659-vector-grunge-texture*/
+    background-image: url(../images/texture.jpg);
+    border: solid #511d20;
+}
+
+
+/*Flash Cards*/
+
+.card {
+    width: 50%;
+    height: 230px;
+}
+
+.vocab {
+    width: 200%;
+}
+
+.front {
+    margin-top: 10%;
+    margin-left: 50px;
+    margin: 3px;
+    border: 2px red solid;
+    border-radius: 25px;
+    background-color: #ff9d9d;
+    text-align: center;
+		/*Image Source: https://www.vecteezy.com/vector-art/119659-vector-grunge-texture*/
+    background-image: url(../images/texture.jpg);
+    border: solid #511d20;
+}
+
+.back {
+    margin-top: 10%;
+    margin: 3px;
+    border: 2px blue solid;
+    background-color: #9bfbfb;
+    border-radius: 25px;
+    text-align: center;
+	/*Image Source: https://www.vecteezy.com/vector-art/119659-vector-grunge-texture*/
+    background-image: url(../images/texture.jpg);
+    border: solid #511d20;
+}
+
+.flashcards {
+    margin-top: 5%;
+}
+
+
+/*Reading Comprehension*/
+.reading-background {
+    margin-top: 15%;
+    margin-left: -20px;
+		/*Image Source: http://www.freepik.com/free-photo/colored-wooden-boards_971859.htm#term=wood banner&page=1&position=22*/
+    background-image: url(../images/readingbackground.jpg);
+    width: 1400px;
+    height: 700px;
+}
+
+.reading-text1 {
+    margin-top: -10%;
+    margin-left: 80px;
+}
+
+.reading-text2 {
+    margin-top: 0;
+}
+
+.reading-text3 {
+    margin-top: 0;
+}
+
+.speaking-background {
+    margin-top: 5%;
+    margin-left: -20px;
+    background-image: url(../images/summerbreeze.jpg);
+    /*Image SourceL http://www.freepik.com/free-photo/texture-of-wooden-boards-have-metal-frames_971821.htm#term=wood banner&page=2&position=17*/
+    width: 1400px;
+    height: 700px;
+}
+
+.speaking-text {
+    margin-top: -8%;
+    margin-left: 80px;
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.container {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 80px;
+}
+
+.container-background {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+/*Fonts*/
+.h1 {
+    font-family: "Righteous";
+    font-size: 45px;
+    font-weight: bolder;
+    position: relative;
+    margin-top: -30%;
+    text-align: center;
+    color: #1a0a00;
+}
+
+.h2 {
+    font-family: "Righteous";
+    font-size: 30px;
+    font-weight: bolder;
+    position: relative;
+    margin-top: 2%;
+    text-align: center;
+    color: #1a0a00;
+}
+
+.h3 {
+    font-family: "Gill Sans Extrabold", serif;
+    font-size: 25px;
+    font-weight: bolder;
+    position: static;
+    margin-top: 1%;
+    margin-left: 42%;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+h4 {
+    font-family: 'Righteous';
+    font-size: 22px;
+    font-weight: bold;
+    color: #5d0000;
+}
+
+h5 {
+    margin-top: 20%;
+    font-family: 'Righteous';
+    font-size: 40px;
+    font-weight: bold;
+    color: #5d0000;
+}
+
+h6 {
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 10%;
+}
+
+h7 {
+    margin-top: -20%;
+    font-family: 'Righteous';
+    font-size: 22px;
+    font-weight: bold;
+    color: #5d0000;
+}
+
+.p {
+    text-align: center;
+}
+
+.col-lg-6 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
