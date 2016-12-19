@@ -1,18 +1,3 @@
-/*Vocabulary Quiz Pop Up*/
-
-.goodQuiz {
-    color: green;
-}
-
-.badQuiz {
-    color: red;
-}
-
-.okayQuiz {
-    color: yellow;
-}
-
-
 /*Header*/
 .intro {
     margin-top: 35%;
